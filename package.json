@@ -1,20 +1,24 @@
 {
-  "name": "gettest",
+  "name": "93b8d2f1",
   "version": "1.0.0",
-  "description": "Egyszerű Express projekt, ami egy JSON fájlt ad vissza",
-  "main": "src/index.js",
-  "type": "module",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolkenyerik-sudo/93B8D2F1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
+  "bugs": {
+    "url": "https://github.com/bolkenyerik-sudo/93B8D2F1/issues"
   },
-  "devDependencies": {
-    "nodemon": "^3.1.10"
+  "homepage": "https://github.com/bolkenyerik-sudo/93B8D2F1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
